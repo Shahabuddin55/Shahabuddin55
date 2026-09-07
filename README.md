@@ -67,3 +67,30 @@ My goal is to start my career as a Data Analyst and use data-driven insights to 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+
+---
+
+## 📊 Projects
+
+### 🛒 Superstore Sales & Profit Analysis
+
+**Tools:** Microsoft Excel
+
+**Project Overview:**  
+Analyzed the Superstore dataset to understand sales, profit, quantity, regions, categories, and sub-categories.
+
+**Key Analysis:**
+- Analyzed total sales and total profit
+- Compared sales and profit across regions
+- Analyzed category-wise sales
+- Analyzed sub-category-wise sales
+- Created an Excel dashboard for data visualization
+
+**Dashboard KPIs:**
+- Total Sales: 2,297,200.86
+- Total Profit: 286,397.02
+- Total Quantity: 37,873
+
+📁 [View Dataset](./Superstore.xlsx)
