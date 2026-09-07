@@ -94,3 +94,7 @@ Analyzed the Superstore dataset to understand sales, profit, quantity, regions, 
 - Total Quantity: 37,873
 
 📁 [View Dataset](./Superstore.xlsx)
+
+### Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](Superstore-dashboard.png)
